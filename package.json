@@ -12,7 +12,7 @@
     "dependencies": {
         "react": "^19.1.0",
         "react-dom": "^19.1.0",
-        "react-aria": "3.39.0",
+        "react-aria": "3.0.0-nightly-b7f8ed1a9-250516",
         "react-aria-components": "3.0.0-nightly-b7f8ed1a9-250516"
     },
     "devDependencies": {
